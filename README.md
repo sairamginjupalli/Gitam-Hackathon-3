@@ -1,6 +1,6 @@
 # Gitam-Hackathon-3
 ## Team Name     : Resource Rovers.
-### Project Name : EducConnect
+### Project Name : EduConnect
 
 The web application designed to facilitate communication and collaboration among college students. 
 It serves as a centralized platform where students can engage in discussions, share their projects, and 
