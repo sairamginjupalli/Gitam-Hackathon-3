@@ -24,7 +24,7 @@ provide feedback to improve the learning experience.
 
 ## Benefits
 
-- **Enhanced Collaboration:**, **Improved Communication:**, **Facilitated Learning:**, **Feedback Loop:** 
+- **Enhanced Collaboration**, **Improved Communication**, **Facilitated Learning**, **Feedback Loop** 
 
 ## Get Started
 
